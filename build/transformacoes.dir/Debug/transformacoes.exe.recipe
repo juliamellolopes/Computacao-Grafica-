@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\julia\Documents\Nova pasta\Transformacoes\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\julia\Documents\Nova pasta\Transformacoes\Computacao-Grafica-\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\julia\Documents\Nova pasta\Transformacoes\build\Debug\transformacoes.exe</FullPath>
+      <FullPath>C:\Users\julia\Documents\Nova pasta\Transformacoes\Computacao-Grafica-\build\Debug\transformacoes.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

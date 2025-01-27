@@ -29,27 +29,25 @@ Transformacoes/
 
 #### Passos para Compilar e Executar
 
-1. **Abra o terminal e navegue até a pasta do projeto**:
+1. **Crie a pasta `build` e entre nela**:
+
    ```bash
-   cd "Transformacoes"
+   mkdir build; cd build
    ```
 
-2. **Crie a pasta `build` e entre nela**:
-   ```bash
-   mkdir build && cd build
-   ```
+2. **Configure o projeto com o CMake**:
 
-3. **Configure o projeto com o CMake**:
    ```bash
    cmake ..
    ```
 
-4. **Compile o projeto**:
+3. **Compile o projeto**:
+
    ```bash
    cmake --build .
    ```
 
-5. **Execute o programa**:
+4. **Execute o programa**:
    - O executável será gerado na pasta `build/Debug/` (Windows) ou `build/` (Linux/Mac).
    - Execute o programa com:
      ```bash
@@ -61,6 +59,7 @@ Transformacoes/
 #### Controles do Programa
 
 - **Alternar entre objetos**:
+
   - Pressione **`1`** para selecionar o **cubo**.
   - Pressione **`2`** para selecionar a **pirâmide**.
 
@@ -77,9 +76,11 @@ Transformacoes/
 #### Recursos do Projeto
 
 - **Cores distintas por face**:
+
   - Cada face do cubo e da pirâmide tem cores únicas para facilitar a diferenciação durante a rotação.
 
 - **Controle de objetos independentes**:
+
   - A câmera ajusta sua posição e distância para o objeto selecionado (cubo ou pirâmide).
 
 - **Shaders personalizáveis**:
