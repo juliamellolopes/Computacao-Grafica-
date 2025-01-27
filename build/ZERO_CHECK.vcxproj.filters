@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\julia\Documents\Nova pasta\Transformacoes\build\CMakeFiles\05758c980a69c5470c5491a07856df4f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4AC449B2-2BDC-39FD-81A0-54865F685B86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

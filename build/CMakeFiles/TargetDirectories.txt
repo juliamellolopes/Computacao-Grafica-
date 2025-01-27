@@ -1,0 +1,3 @@
+C:/Users/julia/Documents/Nova pasta/Transformacoes/build/CMakeFiles/transformacoes.dir
+C:/Users/julia/Documents/Nova pasta/Transformacoes/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/julia/Documents/Nova pasta/Transformacoes/build/CMakeFiles/ZERO_CHECK.dir
