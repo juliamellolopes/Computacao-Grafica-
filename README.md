@@ -86,6 +86,3 @@ Transformacoes/
 - **Shaders personalizáveis**:
   - O código utiliza shaders de vértices e fragmentos para aplicar cores e realizar transformações.
 
----
-
-Se precisar de mais instruções ou ajuda, é só avisar! 😊
